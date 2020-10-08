@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Hi! I'm oreo-icecream
 
-You can use the [editor on GitHub](https://github.com/oreo-icecream/oreo-icecream.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a 13 year old boy with too much free time. When I'm bored I code some stupid stuff like:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [print("POGGERS")](https://github.com/oreo-icecream/print-POGGERS-) a dumb little program, I made.
+- [CumTwitterBot](https://github.com/oreo-icecream/CumTwitterBot) a bot that's uses twitter to post some NSFW stuff.
 
-### Markdown
+# About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm oreo-icecream aka Luke (That's my real name :>). I been on this planet 13 years, I live in Poland and speak Polish and English (duh)...
 
-```markdown
-Syntax highlighted code block
+I have a twitter at [@UnoriginalLuke_](twitter.com/UnoriginalLuke_) and a [YouTube channel](https://www.youtube.com/channel/UC60jIWHfYb-Zv7Orb3WrZFQ)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oreo-icecream/oreo-icecream.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Oh and I almost forgot. I have another GitHub account @kitkat-icecream, I made it for school <3
